@@ -1,0 +1,81 @@
+CLAUDE.md
+
+# C / C++ build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.elf
+*.bin
+*.gch
+*.pch
+*.d
+*.lo
+*.la
+*.slo
+*.ko
+
+# Debug / profiling
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.dSYM/
+*.stackdump
+core
+core.*
+vgcore.*
+*.gcda
+*.gcno
+*.gcov
+
+# Build directories
+build/
+Build/
+bin/
+obj/
+out/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+compile_commands.json
+
+# Make / Autotools
+.deps/
+.libs/
+Makefile.in
+config.log
+config.status
+
+# Visual Studio
+.vs/
+*.sln.docstates
+*.suo
+*.user
+*.vcxproj.user
+x64/
+x86/
+Debug/
+Release/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
