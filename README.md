@@ -24,3 +24,7 @@ main                  # this README and .gitignore only
 - One branch per project, with one self-contained folder per branch.
 - Keep code small, runnable and commented where the idea isn't obvious.
 - Add new projects to the table above, with their branch.
+
+## AI disclosure
+
+AI (Claude) is used only to help with documentation in this repository, such as READMEs, plans and write-ups. All code is written by me; AI is never used to write code.
